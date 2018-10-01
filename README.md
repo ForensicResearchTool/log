@@ -3,17 +3,17 @@
 
 |MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|---|---|---|---|---|---|
-||||||[1](/2018-september/1.md)|[2](/2018-september/2.md)|
-|3|4|5|6|7|8|9|
-|10|11|12|13|14|15|16|
-|17|18|19|20|21|22|23|
-|24|25|26|27|28|29|30|  
+||||||1|2|
+|[3](/2018-september/3.md)|[4](/2018-september/4.md)|[5](/2018-september/5.md)|[6](/2018-september/6.md)|[7](/2018-september/7.md)|8|9|
+|[10](/2018-september/10.md)|[11](/2018-september/11.md)|[12](/2018-september/12.md)|[13](/2018-september/13.md)|[14](/2018-september/14.md)|15|16|
+|[17](/2018-september/17.md)|[18](/2018-september/18.md)|[19](/2018-september/19.md)|[20](/2018-september/20.md)|[21](/2018-september/21.md)|22|23|
+|[24](/2018-september/24.md)|[25](/2018-september/25.md)|[26](/2018-september/26.md)|[27](/2018-september/27.md)|[28](/2018-september/28.md)|29|30|  
 
 # October
 
 |MON|TUE|WED|THU|FRI|SAT|SUN|
 |:-:|---|---|---|---|---|---|
-|1|2|3|4|5|6|7|
+|[1](/2018-october/1.md)|[2](/2018-october/2.md)|3|4|5|6|7|
 |8|9|10|11|12|13|14|
 |15|16|17|18|19|20|21|
 |22|23|24|25|26|27|28|
